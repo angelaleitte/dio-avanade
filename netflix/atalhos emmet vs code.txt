@@ -1,0 +1,2 @@
+atalhos emmet vs code
+- ALT+SHIFT+SETA PARA BAIXO -> CLONA A LINHA CORRENTE
